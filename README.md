@@ -50,11 +50,12 @@ npm run dev
 
 ## 資料庫設定
 
-在 Supabase SQL Editor 依序執行：
+在全新的 Supabase 專案 SQL Editor 中，依序執行 `sql/final` 內的兩個檔案即可：
 
-1. `sql/thsr_booking_supabase.sql`
-2. `sql/001_add_fares_and_student.sql` 至 `sql/008_member_profile_source_of_truth.sql`
-3. `sql/seed_demo_data.sql`
+1. `sql/final/01_schema.sql`
+2. `sql/final/02_seed.sql`
+
+`01_schema.sql` 已整合完整資料庫結構與所有 migration，不需要再執行 `sql` 目錄中的舊版 SQL 檔案。
 
 本專題採密碼直接註冊；若要維持目前展示流程，請在 Supabase Auth 設定中關閉電子郵件確認。正式服務應重新啟用驗證並補上郵件與帳號復原流程。
 
