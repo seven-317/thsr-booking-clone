@@ -1,10 +1,10 @@
 {
   "Metadata": {
-    "title": "High-Speed Rail Booking | Unofficial Course Project",
+    "title": "High-Speed Rail Booking",
     "shortTitle": "Rail Booking Project",
     "siteName": "High-Speed Rail Booking Project",
     "description": "An unofficial course project recreating train search, booking, member, and test-payment flows for Taiwan high-speed rail travel.",
-    "author": "Fu Jen Catholic University Course Project Team",
+    "author": "Fu Jen Catholic University Database System Course Project",
     "keywords": "high-speed rail booking,Taiwan rail,train search,Next.js,Supabase,course project",
     "ogImageAlt": "Taiwan High Speed Rail logo"
   },

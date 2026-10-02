@@ -1,10 +1,10 @@
 {
   "Metadata": {
-    "title": "高鐵線上訂票｜非官方期末專題",
+    "title": "高鐵線上訂票",
     "shortTitle": "高鐵訂票專題",
     "siteName": "高鐵線上訂票專題",
     "description": "模擬台灣高鐵查詢車次、訂位、會員與測試付款流程的非官方期末專題。",
-    "author": "輔仁大學期末專題團隊",
+    "author": "輔仁大學期末專題",
     "keywords": "高鐵訂票,台灣高鐵,車次查詢,Next.js,Supabase,期末專題",
     "ogImageAlt": "台灣高鐵 Logo"
   },
